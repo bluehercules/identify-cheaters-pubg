@@ -1,4 +1,4 @@
-## Open final_assign.ipynb to view and run the code
+# Open `final_assign.ipynb` to view and run the code
 
 The final assignment asks you to use the computational thinking and programming skills you learned in the course to answer an empirical social science question using digital trace data.
 

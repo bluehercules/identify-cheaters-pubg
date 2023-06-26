@@ -1,5 +1,3 @@
-# identify-cheaters-pubg
-
 ## The homophily and social contagion of cheating
 
 ### Grade: 89/100
